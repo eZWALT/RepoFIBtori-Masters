@@ -1,15 +1,16 @@
 # RepoFIBtori-Masters FIB-UPC
-## Descripcio
-🤓🤓🤓 Apunts, pràctiques, exàmens, enllaços i recursos de diversos másters de la FIB: MDS, MIRI, MAI, MEI... Animat i contribueix 🤓🤓🤓!
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/RepoFIBtori/RepoFIBtori)
-[![GitHub stars](https://img.shields.io/github/stars/RepoFIBtori/RepoFIBtori.svg)](https://GitHub.com/RepoFIBtori/RepoFIBtori/stargazers/)
-[![GitHub forks](https://img.shields.io/github/forks/RepoFIBtori/RepoFIBtori.svg)](https://GitHub.com/RepoFIBtori/RepoFIBtori/network/)
-[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/RepoFIBtori/RepoFIBtori.svg)](https://github.com/RepoFIBtori/RepoFIBtori)
-[![GitHub contributors](https://img.shields.io/github/contributors/RepoFIBtori/RepoFIBtori.svg)](https://GitHub.com/RepoFIBtori/RepoFIBtori/graphs/contributors/)
-
+![Stars](https://img.shields.io/github/stars/eZWALT/RepoFIBtori-Masters?style=social)
+![Forks](https://img.shields.io/github/forks/eZWALT/RepoFIBtori-Masters?style=social)
+![License](https://img.shields.io/github/license/eZWALT/RepoFIBtori-Masters)
+![Issues](https://img.shields.io/github/issues/eZWALT/RepoFIBtori-Masters)
+![Watchers](https://img.shields.io/github/watchers/eZWALT/RepoFIBtori-Masters?style=social)
 
 <div align="center"><img alt="RepoFIBtori logo" src="RepoFIBtori.png" width="300px"/></div>
+
+
+## Descripcio
+🤓🤓🤓 Apunts, pràctiques, exàmens, enllaços i recursos de diversos másters de la FIB: MDS, MIRI, MAI, MEI... Animat i contribueix 🤓🤓🤓!
 
 ## Recursos adicionals
 ### Calculadora notes
